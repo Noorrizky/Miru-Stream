@@ -1,8 +1,5 @@
 # Miru: A Simple Video Streaming Platform
 
-![Screenshot of the Miru homepage with Nijika theme (Placeholder - replace with actual screenshot)](assets/images/screenshot_homepage.png)
-*(Placeholder: Replace `assets/images/screenshot_homepage.png` with an actual screenshot of your Miru project's homepage after setup.)*
-
 ## Project Description
 
 Miru is a robust yet simple video streaming platform designed to curate and display YouTube videos via iframes, offering users a seamless and intuitive experience to browse, search, and watch categorized content. A secure, database-driven admin panel allows for comprehensive management of video entries and categories, including a custom user login system. Built with PHP and MySQL, and styled using Bootstrap 5, Miru boasts an elegant, Netflix-inspired user interface, uniquely colored with the vibrant palette of Ijichi Nijika (featuring bright yellows, contrasting darks, and whites), and enhanced by modern typography with 'Open Sans ExtraBold' for headings and 'Montserrat' for body text.
